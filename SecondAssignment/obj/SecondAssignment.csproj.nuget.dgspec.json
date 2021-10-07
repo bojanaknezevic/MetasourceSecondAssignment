@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bojan\\source\\repos\\SecondAssignment\\SecondAssignment\\SecondAssignment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bojan\\source\\repos\\SecondAssignment\\SecondAssignment\\SecondAssignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bojan\\source\\repos\\SecondAssignment\\SecondAssignment\\SecondAssignment.csproj",
+        "projectName": "SecondAssignment",
+        "projectPath": "C:\\Users\\bojan\\source\\repos\\SecondAssignment\\SecondAssignment\\SecondAssignment.csproj",
+        "packagesPath": "C:\\Users\\bojan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bojan\\source\\repos\\SecondAssignment\\SecondAssignment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bojan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

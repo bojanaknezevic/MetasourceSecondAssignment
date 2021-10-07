@@ -1,0 +1,16 @@
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\bin\Debug\net5.0\SecondAssignment.exe
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\bin\Debug\net5.0\SecondAssignment.deps.json
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\bin\Debug\net5.0\SecondAssignment.runtimeconfig.json
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\bin\Debug\net5.0\SecondAssignment.runtimeconfig.dev.json
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\bin\Debug\net5.0\SecondAssignment.dll
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\bin\Debug\net5.0\ref\SecondAssignment.dll
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\bin\Debug\net5.0\SecondAssignment.pdb
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\obj\Debug\net5.0\SecondAssignment.csproj.AssemblyReference.cache
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\obj\Debug\net5.0\SecondAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\obj\Debug\net5.0\SecondAssignment.AssemblyInfoInputs.cache
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\obj\Debug\net5.0\SecondAssignment.AssemblyInfo.cs
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\obj\Debug\net5.0\SecondAssignment.csproj.CoreCompileInputs.cache
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\obj\Debug\net5.0\SecondAssignment.dll
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\obj\Debug\net5.0\ref\SecondAssignment.dll
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\obj\Debug\net5.0\SecondAssignment.pdb
+C:\Users\bojan\source\repos\SecondAssignment\SecondAssignment\obj\Debug\net5.0\SecondAssignment.genruntimeconfig.cache
